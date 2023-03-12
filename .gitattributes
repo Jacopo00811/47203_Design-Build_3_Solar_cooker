@@ -1,3 +1,2 @@
-*.cpp linguist-detectable=false
 *.py linguist-detectable=true
 *.ino linguist-detectable=true

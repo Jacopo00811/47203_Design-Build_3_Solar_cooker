@@ -1,2 +1,2 @@
-# 47203_Design-Build_3_Solar_cooker
+# 47203_Design_Build_3_Solar_cooker
 Material for the course 47203 Design-Build 3: Solar cooker (Jan 23) at DTU. The arduino component of the project includes a proportional control mechanism, implemented with arduino, that regulates the opening and closing of the shaders at different time intervals in accordance with a preset target temperature. This ensures a consistently stable temperature during experimentation. The data analysis portion of the project utilizes thermocouples and a thermometer to gather sensor data during experiments, which is then visually represented in beautifully formatted graphs. Some test data are present.
